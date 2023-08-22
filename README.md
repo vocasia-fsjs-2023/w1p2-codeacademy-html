@@ -1,4 +1,4 @@
-# w1p2-codeacademy_html
+# w2p2-codeacademy_html
 
 ## Problem 2:
   - Register ke Codeacademy.
